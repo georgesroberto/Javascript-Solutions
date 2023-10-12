@@ -1,2 +1,2 @@
 # Javascript-Solutions
-Javascript Beginner Q&amp;A
+Beginner projects for Javascript programs
